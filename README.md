@@ -8,3 +8,5 @@ Requirements
   - [ ] It should ping everyone when time is up
   - [ ] It should have a simple command to set time of event 
   - [ ] It should message in only one channel 
+
+  Credit: https://github.com/Rapptz/discord.py
